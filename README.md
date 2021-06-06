@@ -33,4 +33,7 @@
   <a href="https://medium.com/@thazsobral" target="_blank">
     <img src="https://img-premium.flaticon.com/png/512/2111/2111505.png?token=exp=1623004054~hmac=0fde74895cf4d57bcad352ac01fb3f0b" title="medium" width= 30 />
   </a>
+  <a href="https://www.twitch.tv/thazsobral" target="_blank">
+    <img src="https://image.flaticon.com/icons/png/512/2111/2111727.png" title="twitch" width= 30 />
+  </a>
 </p>
