@@ -3,7 +3,7 @@
 - Meu nome é Thalles, mas alguns me chamam de thaz. 🖖
 - Atualmente trabalho técnico em informática. 💻
 - Estou sempre estudando e buscando desafios que façam meus olhos brilharem.🚀
-- Sou apaixonado por técnologia e pela arte de resolver problemas de forma criativa. 👨‍💻
+- Sou apaixonado por tecnologia e pela arte de resolver problemas de forma criativa. 👨‍💻
 - Tenho como hobby ler livros, fazer gambiarras com arduíno e maratonar séries e cursos. ✌
 ---
 ### Quais linguagens eu uso?
