@@ -1,5 +1,5 @@
 # Support List
-Está pagina oferece uma lista de recursos para apiar o repositório.
+Está pagina oferece uma lista de recursos para apoiar o repositório.
 
 ---
 ## List
