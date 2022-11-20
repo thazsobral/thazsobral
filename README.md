@@ -1,3 +1,5 @@
+<img src="./statics/images/study-development.svg" title="student" width=300 align="center" />
+
 ### Hi there 👋
 
 - Meu nome é Thalles, mas alguns me chamam de Thaz. 🖖
@@ -16,25 +18,25 @@
 ### Como me encontrar?
 <p align="center">
   <a href="mailto:thazsobral@gmail.com" target="_blank">
-    <img src="./icons/gmail.svg" title="e-mail" width= 30 />
+    <img src="./statics/icons/gmail.svg" title="e-mail" width= 30 />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thalles-sobral-414322b6/" target="_blank">
-    <img src="./icons/linkedin.svg" title="linkedin" width= 30 />
+    <img src="./statics/icons/linkedin.svg" title="linkedin" width= 30 />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/thaz.sobral/" target="_blank">
-    <img src="./icons/instagram.svg" title="instagram" width= 30 />
+    <img src="./statics/icons/instagram.svg" title="instagram" width= 30 />
   </a>
   &nbsp;
   <a href="https://twitter.com/SobralThalles" target="_blank">
-    <img src="./icons/twitter.svg" title="twitter" width= 30 />
+    <img src="./statics/icons/twitter.svg" title="twitter" width= 30 />
   </a>
   &nbsp;
   <a href="https://medium.com/@thazsobral" target="_blank">
-    <img src="./icons/medium.svg" title="medium" width= 30 />
+    <img src="./statics/icons/medium.svg" title="medium" width= 30 />
   </a>
   <a href="https://www.twitch.tv/thazsobral" target="_blank">
-    <img src="./icons/twitch.svg" title="twitch" width= 30 />
+    <img src="./statics/icons/twitch.svg" title="twitch" width= 30 />
   </a>
 </p>
