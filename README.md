@@ -1,4 +1,4 @@
-<img src="./statics/images/study-development.svg" title="student" width=300 align="center" />
+<img src="./statics/images/study-development.svg" title="student" width=300 />
 
 ### Hi there 👋
 
