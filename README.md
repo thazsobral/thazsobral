@@ -21,7 +21,7 @@
     <img src="./statics/icons/gmail.svg" title="e-mail" width= 30 />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/thalles-sobral-414322b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/thalles-sobral/" target="_blank">
     <img src="./statics/icons/linkedin.svg" title="linkedin" width= 30 />
   </a>
   &nbsp;
