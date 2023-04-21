@@ -42,3 +42,6 @@
     <img src="./statics/icons/twitch.svg" title="twitch" width= 30 />
   </a>
 </p>
+
+### Outras plataformas que estou?
+<img src="https://tryhackme-badges.s3.amazonaws.com/thazsobral.png" alt="TryHackMe">
