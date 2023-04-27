@@ -1,6 +1,7 @@
 <img src="./statics/images/study-development.svg" title="student" width=300 />
 
 ### Hi there 👋
+
 - Meu nome é Thalles, mas alguns me chamam de Thaz. 🖖
 - Atualmente trabalho como técnico em informática. 💻
 - Estou sempre estudando e buscando desafios que façam meus olhos brilharem.🚀
@@ -8,15 +9,20 @@
 - Tenho como hobby ler livros, fazer gambiarras com arduíno e maratonar séries e cursos. ✌
 
 ---
+
 ### Quais linguagens eu mais uso?
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thazsobral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 ### Como estou no Github?
+
 [![Thalles's GitHub stats](https://github-readme-stats.vercel.app/api?username=thazsobral)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thazsobral)](https://git.io/streak-stats)
 
 ---
+
 ### Onde me encontrar?
 <p align="center">
   <a href="mailto:thazsobral@gmail.com" target="_blank">
@@ -43,5 +49,8 @@
   </a>
 </p>
 
+---
+
 ### Outras plataformas que estou?
-<img src="https://tryhackme-badges.s3.amazonaws.com/thazsobral.png" alt="TryHackMe">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thazsobral.png)](https://tryhackme.com/p/thazsobral)
