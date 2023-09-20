@@ -8,20 +8,17 @@
 - Sou apaixonado por tecnologia e pela arte de resolver problemas de forma criativa. 👨‍💻
 - Tenho como hobby ler livros, fazer gambiarras com arduíno e maratonar séries e cursos. ✌
 
----
-
 ### Quais linguagens eu mais uso?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thazsobral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thazsobral&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Como estou no Github?
 
-[![Thalles's GitHub stats](https://github-readme-stats.vercel.app/api?username=thazsobral)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thazsobral)](https://git.io/streak-stats)
+[![Thalles's GitHub stats](https://github-readme-stats.vercel.app/api?username=thazsobral&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thazsobral&hide_title=true)](https://git.io/streak-stats)
 
 ### Onde me encontrar?
 <p align="center">
@@ -51,6 +48,5 @@
 
 ---
 
-### Outras plataformas que estou?
-
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thazsobral.png)](https://tryhackme.com/p/thazsobral)
+
