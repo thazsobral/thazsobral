@@ -51,4 +51,4 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thazsobral.png)](https://tryhackme.com/p/thazsobral)
 
 ---
-[Inglês]()
+[README in English]()
