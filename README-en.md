@@ -52,4 +52,4 @@
 
 ### Other versions of my README
 
-- [🇧🇷](https://github.com/thazsobral/thazsobral/blob/main/README.md)
+- [PT-BR](https://github.com/thazsobral/thazsobral/blob/main/README.md)
