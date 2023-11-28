@@ -2,17 +2,17 @@
 
 ### Hi there 👋
 
-- Meu nome é Thalles, mas alguns me chamam de Thaz. 🖖
-- Atualmente trabalho como técnico em informática. 💻
-- Estou sempre estudando e buscando desafios que façam meus olhos brilharem.🚀
-- Sou apaixonado por tecnologia e pela arte de resolver problemas de forma criativa. 👨‍💻
-- Tenho como hobby ler livros, fazer gambiarras com arduíno e maratonar séries e cursos. ✌
+- My name is Thalles, but some call me Thaz. 🖖
+- I currently work as a computer technician. 💻
+- I'm always studying and looking for challenges that make my eyes shine.🚀
+- I am passionate about technology and the art of solving problems creatively. 👨‍💻
+- My hobby is reading books, doing tricks with Arduino and binge-watching series and courses. ✌
 
-### Quais linguagens eu mais uso?
+### Which languages do I use most?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thazsobral&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Como estou no Github?
+### How am I on Github?
 
 [![Thalles's GitHub stats](https://github-readme-stats.vercel.app/api?username=thazsobral&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +20,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thazsobral&hide_title=true)](https://git.io/streak-stats)
 
-### Onde me encontrar?
+### Where to find me?
 <p align="center">
   <a href="mailto:thazsobral@gmail.com" target="_blank">
     <img src="./statics/icons/gmail.svg" title="e-mail" width= 30 />
@@ -50,4 +50,6 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thazsobral.png)](https://tryhackme.com/p/thazsobral)
 
-[README in Portuguese](https://github.com/thazsobral/thazsobral/tree/main#readme)
+### Other versions of my README
+
+- [🇧🇷](https://github.com/thazsobral/thazsobral/tree/main#readme)
