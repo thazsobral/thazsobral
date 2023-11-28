@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - My name is Thalles, but some call me Thaz. 🖖
-- I currently work as a computer technician. 💻
+- I currently work as a programmer. 💻
 - I'm always studying and looking for challenges that make my eyes shine.🚀
 - I am passionate about technology and the art of solving problems creatively. 👨‍💻
 - My hobby is reading books, doing tricks with Arduino and binge-watching series and courses. ✌
