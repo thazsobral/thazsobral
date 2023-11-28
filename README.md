@@ -50,5 +50,6 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thazsobral.png)](https://tryhackme.com/p/thazsobral)
 
----
-[README in English](https://github.com/thazsobral/thazsobral/blob/main/README-en.md)
+### Outras versões do meu README
+
+- [EN](https://github.com/thazsobral/thazsobral/blob/main/README-en.md)
