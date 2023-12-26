@@ -23,26 +23,29 @@
 ### Where to find me?
 <p align="center">
   <a href="mailto:thazsobral@gmail.com" target="_blank">
-    <img src="./statics/icons/gmail.svg" title="e-mail" width= 30 />
+    <img src="./statics/icons/gmail.svg" title="e-mail" width=30 />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thalles-sobral/" target="_blank">
-    <img src="./statics/icons/linkedin.svg" title="linkedin" width= 30 />
+    <img src="./statics/icons/linkedin.svg" title="linkedin" width=30 />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/thaz.sobral/" target="_blank">
-    <img src="./statics/icons/instagram.svg" title="instagram" width= 30 />
+    <img src="./statics/icons/instagram.svg" title="instagram" width=30 />
   </a>
   &nbsp;
   <a href="https://twitter.com/SobralThalles" target="_blank">
-    <img src="./statics/icons/twitter.svg" title="twitter" width= 30 />
+    <img src="./statics/icons/twitter.svg" title="twitter" width=30 />
   </a>
   &nbsp;
   <a href="https://medium.com/@thazsobral" target="_blank">
-    <img src="./statics/icons/medium.svg" title="medium" width= 30 />
+    <img src="./statics/icons/medium.svg" title="medium" width=30 />
   </a>
   <a href="https://www.twitch.tv/thazsobral" target="_blank">
-    <img src="./statics/icons/twitch.svg" title="twitch" width= 30 />
+    <img src="./statics/icons/twitch.svg" title="twitch" width=30 />
+  </a>
+  <a href="https://www.twitch.tv/thazsobral" target="_blank">
+    <img src="./statics/icons/dio.svg" title="twitch" width=60 />
   </a>
 </p>
 
