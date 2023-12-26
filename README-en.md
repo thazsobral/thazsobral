@@ -44,7 +44,7 @@
   <a href="https://www.twitch.tv/thazsobral" target="_blank">
     <img src="./statics/icons/twitch.svg" title="twitch" width=30 />
   </a>
-  <a href="https://www.twitch.tv/thazsobral" target="_blank">
+  <a href="https://www.dio.me/users/thazsobral" target="_blank">
     <img src="./statics/icons/dio.svg" title="twitch" width=60 />
   </a>
 </p>
