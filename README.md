@@ -7,7 +7,7 @@
 - Estou sempre estudando e buscando desafios que façam meus olhos brilharem.🚀
 - Sou apaixonado por tecnologia e pela arte de resolver problemas de forma criativa. 👨‍💻
 - Tenho como hobby ler livros, fazer gambiarras com arduíno e maratonar séries e cursos. ✌
-
+---
 ### Quais linguagens eu mais uso?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thazsobral&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
