@@ -2,8 +2,9 @@
   <img src="./statics/images/study-development.svg" title="student" width=200 />
 </p>
 
-### Hey Guys! Meu nome é Thalles 👋
 &#8203;
+<h3>Hey Guys! Meu nome é Thalles 👋</h3>
+
 Um profissional de tecnologia curioso e movido pela exploração de novas ideias e desafios. Acredito na criatividade como ferramenta para solucionar problemas complexos e busco aprendizado e aprimoramento contínuos.
 
 💻 Atualmente trabalhando como programador.
