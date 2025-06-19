@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./statics/images/study-development.svg" title="student" width=200 />
+  <a href="https://thazsobral.github.io/">
+    <img src="./statics/images/study-development.svg" title="student" width=200 />
+  </a>
 </p>
 
 ### Hello! My name is Thalles 👋
