@@ -10,8 +10,11 @@
 Um profissional de tecnologia curioso e movido pela exploração de novas ideias e desafios. Acredito na criatividade como ferramenta para solucionar problemas complexos e busco aprendizado e aprimoramento contínuos.
 
 💻 Atualmente trabalhando como programador.
+
 🚀 Entusiasmado por desafios que impulsionam o crescimento.
+
 💡 Adoto a mentalidade hacker: curiosidade, aprendizado contínuo e busca por soluções inovadoras.
+
 &#8203;
 ---
 
