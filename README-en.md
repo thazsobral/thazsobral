@@ -9,8 +9,11 @@
 I am a curious and driven technology professional always seeking new challenges and opportunities. I believe in the power of creativity to solve complex problems and am constantly striving to learn and grow.
 
 💻 I am currently working as a programmer.
+
 🚀 I am passionate about challenges that drive my growth.
+
 💡 I embrace a hacker mindset: curiosity, continuous learning, and a relentless pursuit of innovative solutions.
+
 &#8203;
 ---
 
