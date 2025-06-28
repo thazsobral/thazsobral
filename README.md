@@ -59,4 +59,4 @@ I am a curious and driven technology professional always seeking new challenges 
 
 ### Other Versions
 
-* [PT](https://github.com/thazsobral/thazsobral/blob/main/README.md)
+* [PT](https://github.com/thazsobral/thazsobral/blob/main/README-PT.md)
