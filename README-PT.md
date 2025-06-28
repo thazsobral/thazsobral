@@ -60,4 +60,4 @@ Um profissional de tecnologia curioso e movido pela exploração de novas ideias
 
 ### Outras Versões
 
-* [EN](https://github.com/thazsobral/thazsobral/blob/main/README-en.md)
+* [EN](https://github.com/thazsobral/thazsobral/blob/main/README.md)
